@@ -1,0 +1,7 @@
+message:
+  register: §cPlease register using command /reg <password>
+  login: §cPlease login using command /l <password>
+  wrongpwd: §cWrong password!
+  pwdok: §aSuccesfully logged in.
+  registered: §aSuccesfully registered.
+  setspawn: §aSpawnpoint set to location §f<x>;<y>;<z>
